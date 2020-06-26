@@ -1,0 +1,37 @@
+.header, .hero, .body, .bar, .footer{
+	background-color: #FFAEC9;
+	padding: 10px 0;
+	margin-bottom: 10px;
+}
+.box{
+	min-height: 60px;
+	background-color: #99D9EA;
+	border: 5px solid #22B14C;
+	margin-bottom: 10px;
+}
+.box-2{
+	border: 5px solid #B5E61D;
+}
+p{
+	font-size: 20px;
+    font-weight: 700;
+    margin-top: 16px;
+    margin-left: 10px;
+}
+.row-custom{
+	border: 5px solid #22B14C;
+}
+.red{
+	background-color: red;
+}
+.btn-custom{
+	border: 1px solid red;
+	background-color: red;
+	color: white;
+	display: block;
+	margin: 0 auto;
+	transition-duration: 0.5s;
+}
+.btn-custom:hover{
+	color: black;
+}
